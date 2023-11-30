@@ -1,0 +1,1 @@
+# This Python script facilitates browser automation through tools like Playwright and Selenium. After launching the profile, connect to it via the dynamically generated startup port to automate various browser tasks.
